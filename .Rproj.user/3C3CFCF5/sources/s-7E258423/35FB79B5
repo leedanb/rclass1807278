@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532743864137.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "35FB79B5",
+    "lastKnownWriteTime" : 1532765569,
+    "last_content_update" : 1532765569177,
+    "path" : "C:/R/project180728/OracleHR.R",
+    "project_path" : "OracleHR.R",
+    "properties" : {
+        "cursorPosition" : "356,16",
+        "scrollLine" : "347",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

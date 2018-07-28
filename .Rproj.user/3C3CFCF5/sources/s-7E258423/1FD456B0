@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532738647592.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1FD456B0",
+    "lastKnownWriteTime" : 1532764774,
+    "last_content_update" : 1532764774255,
+    "path" : "C:/R/project180728/installPackages.R",
+    "project_path" : "installPackages.R",
+    "properties" : {
+        "cursorPosition" : "35,16",
+        "scrollLine" : "14",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
